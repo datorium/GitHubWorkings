@@ -20,6 +20,7 @@ namespace GitHubWorkings
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("I am learnign GitHub");
+            MessageBox.Show("My seccond message");
         }
     }
 }
